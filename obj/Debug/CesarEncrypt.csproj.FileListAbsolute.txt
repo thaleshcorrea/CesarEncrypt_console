@@ -1,0 +1,6 @@
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\bin\Debug\CesarEncrypt.exe.config
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\bin\Debug\CesarEncrypt.exe
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\bin\Debug\CesarEncrypt.pdb
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\obj\Debug\CesarEncrypt.csprojAssemblyReference.cache
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\obj\Debug\CesarEncrypt.exe
+C:\Desenvolvimento\CesarEncrypt\CesarEncrypt\obj\Debug\CesarEncrypt.pdb
